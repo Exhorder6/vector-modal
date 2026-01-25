@@ -46,7 +46,7 @@
     "awesome-debounce-promise": "^2.1.0",
     "browserify": "^17.0.0",
     "evt": "1.9.13",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@size-limit/preset-small-lib": "^4.11.0",
